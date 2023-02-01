@@ -29,5 +29,3 @@ Used Python and Jupyter Notebook
 7. Key Insights
 
 8. Project Conclusion
-
-Also performed Pymysql Connection
