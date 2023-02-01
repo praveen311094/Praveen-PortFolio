@@ -14,21 +14,21 @@ Used Python and Jupyter Notebook
 
 ### Steps Involved in the Project:
 
-1. Basic Exploration
+- Basic Exploration
 
-2. Data Cleaning
+- Data Cleaning
 
-3. Outlier Detection
+- Outlier Detection
 
-4. Finding Skewness
+- Finding Skewness
 
-5. Univariate and Multivariate Analysis
+- Univariate and Multivariate Analysis
 
-6. Correlation using Heatmap
+- Correlation using Heatmap
 
-7. Key Insights
+- Key Insights
 
-8. Project Conclusion
+- Project Conclusion
 
 ## [Project2 : PowerBI-Capstone-Project on Adventure work Sales Data](https://github.com/praveen311094/PowerBI-Capstone-Project)
 
