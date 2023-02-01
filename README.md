@@ -40,7 +40,7 @@ This is my Power Bi project worked on Adventure work Sales Data added the datase
 
 - With the help of Visualizations pane built interactive visuals from the data loaded
 
-###In Power Bi my favorite visuals are:
+### In Power Bi my favorite visuals are:
 
 **Line Chart** - To see the trend where we are standing in business now
 
