@@ -29,3 +29,23 @@ Used Python and Jupyter Notebook
 7. Key Insights
 
 8. Project Conclusion
+
+## [Project2 : PowerBI-Capstone-Project on Adventure work Sales Data](https://github.com/praveen311094/PowerBI-Capstone-Project)
+
+This is my Power Bi project worked on Adventure work Sales Data added the dataset in the git repo.
+
+- Performed Cleaning and Formatting of data in Power Query and Loaded in Power Bi Desktop
+
+- Build relationships among the tables in the modeling tab and with the help of data view we can inspect, explore, and understand data in our Power BI Desktop model
+
+- With the help of Visualizations pane built interactive visuals from the data loaded
+
+###In Power Bi my favorite visuals are:
+
+**Line Chart** - To see the trend where we are standing in business now
+
+**Pie Chart** - To know the how much percentage of data occupied
+
+**Guage Visual** - To check the target vs actual status
+
+**AI Visuals** - Especially Key Influencers where we can check which factors are mainly impacting towards profit or loss
